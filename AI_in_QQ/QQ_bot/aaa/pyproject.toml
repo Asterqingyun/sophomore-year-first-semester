@@ -1,0 +1,20 @@
+[project]
+name = "aaa"
+version = "0.1.0"
+description = "aaa"
+readme = "README.md"
+requires-python = ">=3.9, <4.0"
+dependencies = [
+    "nonebot2[fastapi]>=2.4.4",
+    "nonebot2[httpx]>=2.4.4"
+]
+
+[tool.nonebot]
+plugin_dirs = []
+builtin_plugins = ["echo"]
+
+[tool.nonebot.adapters]
+"@local" = []
+
+[tool.nonebot.plugins]
+"@local" = []

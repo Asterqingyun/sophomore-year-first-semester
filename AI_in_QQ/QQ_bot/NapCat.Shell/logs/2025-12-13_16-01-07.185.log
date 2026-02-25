@@ -1,0 +1,40 @@
+12-13 16:01:07 [info] [FFmpeg] 检查 Native Addon 可用性...
+12-13 16:01:07 [info] [FFmpeg] ✓ 使用 Native Addon 适配器
+12-13 16:01:07 [info] [StdOut] 已重定向到命名管道: \\.\pipe\NapCat_46224
+12-13 16:01:07 [info] [PacketHandler] 加载成功
+12-13 16:01:07 [info] [PacketHandler] 初始化成功
+12-13 16:01:07 [info] [NapCat] [Core] NapCat.Core Version: 4.9.81
+12-13 16:01:07 [info] [NapCat] [WebUi] WebUi Token: 596ace287c02
+12-13 16:01:07 [info] [NapCat] [WebUi] WebUi User Panel Url: http://127.0.0.1:6099/webui?token=596ace287c02
+12-13 16:01:07 [info] [NapCat] [WebUi] WebUi User Panel Url: http://0.0.0.0:6099/webui?token=596ace287c02
+12-13 16:01:07 [info] 等待网络连接...
+12-13 16:01:08 [info] 网络已连接
+12-13 16:01:08 [error] 快速登录失败，未找到该 QQ 历史登录记录，将使用二维码登录方式
+12-13 16:01:08 [warn] 请扫描下面的二维码，然后在手Q上授权登录：
+12-13 16:01:08 [warn] 
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █ ██▀▀▄█▄▀▀▀▀█▄█▄▀█ ▄▄▄▄▄ █
+█ █   █ █  ▀█ ▀█ ▄▄ ▀█▄▀▄▀█ █   █ █
+█ █▄▄▄█ █▀  █▄ ▀▄▀▀▀ █▀ █▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█▄▀▄▀ █▄▀▄█ █▄▄▄▄▄▄▄█
+█ ▄█▀  ▄███▄█▄▀▄ ▄██▄▄█▄▀█▀█ █▄ ▄▄█
+█ ▄▄▄ █▄▀  ▄█▀██▄▄▀▄█  █ █▀▀▄█▀▄▄██
+█ ████▄▄ ▀█▀▄▀▀▄▀▀▄▄▀▄▄  █▀▄█▄▄█▄▄█
+█▄██ █▄▄███  ▄██▄▄▀ ▀█▀█ █  ▀  ▄▄██
+█▄▄██▄▄▄▀▀█ █▄▀▄▀█▄█ █▄▀ █▀▄ ▄▀██▄█
+█▀ ▀ ▀▄▄▀ █ █▀██ █ ▄██ █   ▄▀ ▀▄▄██
+█ ▄ ▀ ▄▄ ▀▄█▄▀▀▄█▀▄▀▄▀▄▀ ▀ ▄ ▄▀██▄█
+███  ▄▄▄▄▀   ▄█▀▄▄▀▄█▀▀▄▄▄  ▄██▄▄██
+█▄▄▄▄▄█▄█▀▄▄█▄▀▄▀ ▄▄▄▀▄▀▄ ▄▄▄  ▀ ██
+█ ▄▄▄▄▄ █▀███▀▄▄ █▀▀█▀ ▀█ █▄█ ▄█▄██
+█ █   █ █▄ █▄ ▀▄ ▀▄▄█▄▄▄▀▄▄ ▄ ▄█▀ █
+█ █▄▄▄█ █▀▄▄ ▀██ ▄▀██▄▀▄█ ▄▄ ▄▄█▄██
+█▄▄▄▄▄▄▄█▄█████▄████▄▄▄▄█▄▄▄█▄▄██▄█
+
+二维码解码URL: https://txz.qq.com/p?k=xxvXi7Ew534cal40RMaIssV7tf32DmvE&f=1600001604
+如果控制台二维码无法扫码，可以复制解码url到二维码生成网站生成二维码再扫码，也可以打开下方的二维码路径图片进行扫码。
+12-13 16:01:08 [warn] 二维码已保存到 F:\project\Haibara\QQ_bot\NapCat.Shell\cache\qrcode.png
+12-13 16:01:25 [debug] 本账号数据/缓存目录： D:\QQ文件\聊天记录\Tencent Files\NapCat\data
+12-13 16:01:25 [debug] [Core] [Config] 配置文件F:\project\Haibara\QQ_bot\NapCat.Shell\config\napcat.json加载 {"fileLog":false,"consoleLog":true,"fileLogLevel":"debug","consoleLogLevel":"info","packetBackend":"auto","packetServer":"","o3HookMode":1}
+12-13 16:01:25 [info] [Core] [Packet] 使用 NativePacketClient 作为后端

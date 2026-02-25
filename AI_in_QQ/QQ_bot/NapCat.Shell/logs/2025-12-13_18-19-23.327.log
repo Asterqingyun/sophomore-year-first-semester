@@ -1,0 +1,15 @@
+12-13 18:19:23 [info] [FFmpeg] 检查 Native Addon 可用性...
+12-13 18:19:23 [info] [FFmpeg] ✓ 使用 Native Addon 适配器
+12-13 18:19:23 [info] [StdOut] 已重定向到命名管道: \\.\pipe\NapCat_28144
+12-13 18:19:23 [info] [PacketHandler] 加载成功
+12-13 18:19:23 [info] [PacketHandler] 初始化成功
+12-13 18:19:23 [info] [NapCat] [Core] NapCat.Core Version: 4.9.81
+12-13 18:19:23 [info] [NapCat] [WebUi] WebUi Token: 596ace287c02
+12-13 18:19:23 [info] [NapCat] [WebUi] WebUi User Panel Url: http://127.0.0.1:6099/webui?token=596ace287c02
+12-13 18:19:23 [info] [NapCat] [WebUi] WebUi User Panel Url: http://0.0.0.0:6099/webui?token=596ace287c02
+12-13 18:19:23 [info] 等待网络连接...
+12-13 18:19:23 [info] 网络已连接
+12-13 18:19:23 [info] 正在快速登录  2314971985
+12-13 18:19:24 [debug] 本账号数据/缓存目录： D:\QQ文件\聊天记录\Tencent Files\NapCat\data
+12-13 18:19:24 [debug] [Core] [Config] 配置文件F:\project\Haibara\QQ_bot\NapCat.Shell\config\napcat_2314971985.json加载 {"fileLog":false,"consoleLog":true,"fileLogLevel":"debug","consoleLogLevel":"info","packetBackend":"auto","packetServer":"","o3HookMode":1}
+12-13 18:19:24 [info] [Core] [Packet] 使用 NativePacketClient 作为后端
